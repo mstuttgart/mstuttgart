@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=bed5c5)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=bed5c5)
 ![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat-square&logo=postgresql&logoColor=white&color=bed5c5)
-![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=bed5c5)
+![](https://img.shields.io/badge/Tools-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=bed5c5)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=bed5c5)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=bed5c5)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=bed5c5)
@@ -23,13 +23,11 @@ I'm a backend Python developer, open source enthusiast, husband, christian and h
 
 Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my study notes.
 
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=bed5c5) 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=bed5c5)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=bed5c5)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=bed5c5)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=nodedotjs&logoColor=white&color=bed5c5)
-![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat-square&logo=vagrant&logoColor=white&color=bed5c5)
-
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=bed5c5)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mstuttgart&theme=transparent) -->
 
